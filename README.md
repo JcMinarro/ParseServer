@@ -1,6 +1,7 @@
 # Parse Server
 
 This project help you to deploy a [Parse-server](https://github.com/ParsePlatform/parse-server) on your own server.
+If you don't have own server, you can go to [DigitalOcean](https://m.do.co/c/a67c2caf773d) and get one
 
 ## Setup
 1. `git clone https://github.com/JcMinarro/ParseServer.git`
