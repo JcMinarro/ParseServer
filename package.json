@@ -1,7 +1,7 @@
 {
   "name": "ParseServer",
   "description": "This project help you to deploy a Parse-server on your own server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "author": "Jc Miñarro",
   "engines": {
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.13.4",
-    "parse-server": "^2.0.0",
+    "parse-server": "~2.2.10",
     "config": "^1.19.0"
   }
 }

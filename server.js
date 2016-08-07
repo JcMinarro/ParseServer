@@ -11,7 +11,8 @@ var parseServer = new ParseServer({
   cloud: config.get('cloud'),
   appId: config.get('appId'),
   masterKey: config.get('masterKey'),
-  fileKey: config.get('fileKey')
+  fileKey: config.get('fileKey'),
+  serverURL: 'http://localhost:' + config.get('port') + '/parse'
 });
 
 // Mount the Parse API server middleware to /parse
