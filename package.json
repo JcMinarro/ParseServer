@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.13.4",
-    "parse-server": "3.4.1",
+    "parse-server": ">=3.6.0",
     "config": "^1.19.0"
   }
 }
